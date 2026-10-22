@@ -1,0 +1,12 @@
+{
+  "files": {
+    "decisions.jsonl": 720,
+    "events.jsonl": 4402,
+    "labels.jsonl": 47
+  },
+  "label_reporting_lag_hours": 30,
+  "observation_end": "2026-02-11T12:00:00Z",
+  "schema_version": 1,
+  "seed": 1729,
+  "size": 240
+}
